@@ -1,0 +1,7 @@
+.board_fr {
+    -fx-background-image:url('plateau.png');
+}
+
+.board_en {
+    -fx-background-image:url('plateau_en.png');
+}

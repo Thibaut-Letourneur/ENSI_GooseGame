@@ -1,0 +1,24 @@
+==================
+Correspondance id 
+==================
+
+Plateau : 
+
+case x : tile_x (en remplaçant x par le numéro dice la case)
+case dice départ : tile_start
+
+pion du player 1 : player_1
+
+
+Informations : 
+
+tour n°x : round
+player x : player
+zone dice texte avec les caractéristiques : characteristics
+barre dice progression des compétences dice l'année : skill_progress
+
+
+Zone du dé :
+
+affichage du numéro du dé : dice
+boutton dice lancement du dé : roll_button
